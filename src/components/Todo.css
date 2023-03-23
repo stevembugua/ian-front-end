@@ -1,0 +1,35 @@
+.big-g{
+    background-color: antiquewhite;
+    padding: .5rem;
+    border-radius: .3rem;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+      
+}
+.big-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.btns{
+    padding: .5rem;
+    
+}
+.btns>button{
+    height: 2rem;
+    width: 4rem;
+    margin-left: .3rem;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.form-two{
+    display: flex;
+}
+.form-two>input{
+    width: 12rem;
+    padding: .5rem;
+    height: 1.5rem;
+    font-size: 1.3rem;
+    border-radius: .5rem;
+    outline: none;
+}
