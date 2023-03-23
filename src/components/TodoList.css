@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.t-hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+.t-big{
+    /* background-color: aqua; */
+    padding: 2rem;
+    border: 1px solid red;
+    border-radius: .5rem;
+    
+}
+.form{
+    background-color: transparent;
+    padding: .5rem;
+}
+.form >h1{
+    color: white;
+}
+.form > input{
+   height: 2rem;
+   width: 15rem;
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+   border: 1px solid red;
+   outline: none;
+   border-radius: .5rem 0 0 .5rem;
+   background-color: transparent;
+   color: white;
+   padding: .5rem;
+}
+.t-btn{
+    height: 3.1rem;
+    border-radius: 0 .5rem .5rem 0;
+    padding: .2rem;
+    border: 1px solid red;
+    background-color: transparent;
+    cursor: pointer;
+    color: white;
+    width: 5rem;
+    
+}
