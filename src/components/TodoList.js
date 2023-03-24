@@ -73,7 +73,9 @@ const TodoList = () => {
         />
         <button type="submit" disabled={!newTodo} className='t-btn'>Add Todo</button>
       </form>
+      <div className="bidder">
       {todos.map((todo) => (
+        
         <Todo
           key={todo.id}
           todo={todo}
@@ -81,6 +83,7 @@ const TodoList = () => {
           updateTodo={updateTodo}
         />
       ))}
+      </div>
     </div>
     </div>
   );

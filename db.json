@@ -1,15 +1,24 @@
 {
   "todos": [
     {
-      "task": "miha",
+      "task": "run in the rain",
       "completed": false,
       "id": 1
     },
     {
-      "task": "Read in the library",
+      "task": "kepp up with content",
       "completed": false,
       "id": 2
+    },
+    {
+      "task": "eat lunch",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "task": "play football",
+      "completed": false,
+      "id": 4
     }
-    
   ]
 }

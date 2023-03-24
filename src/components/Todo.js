@@ -19,6 +19,7 @@ const Todo = ({ todo, deleteTodo, updateTodo }) => {
   };
 
   return (
+    
     <div className="big-g">
       {!isEditing ? (
         <div className="big-btn">
@@ -38,6 +39,7 @@ const Todo = ({ todo, deleteTodo, updateTodo }) => {
         </form>
       )}
     </div>
+   
   );
 };
 

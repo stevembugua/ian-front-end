@@ -3,12 +3,21 @@
     padding: 0;
 }
 body{
-    background-color: red;
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
 
 }
+.bidder{
+    overflow-y: scroll;
+    max-height: 30rem;
+    padding: .5rem;
+}
+.bidder::-webkit-scrollbar{
+    display: none;
+}
+
 .t-hero{
     display: flex;
     align-items: center;
@@ -22,7 +31,8 @@ body{
     padding: 2rem;
     border: 1px solid red;
     border-radius: .5rem;
-    
+    min-height: 50%;
+    max-height: 85%;
 }
 .form{
     background-color: transparent;
