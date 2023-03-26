@@ -46,4 +46,7 @@ To delete a task, click the "Delete" button next to the task. The task will be r
 
  ## List tasks 
  The task list will be shown when the page loads
+ 
+## Authors
+[Steve Mbugua]
 
