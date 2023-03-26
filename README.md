@@ -50,3 +50,5 @@ To delete a task, click the "Delete" button next to the task. The task will be r
 ## Authors
 [Steve Mbugua]
 
+## License
+The project is licenced under MIT licence
