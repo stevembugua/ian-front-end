@@ -2,6 +2,10 @@
 ## Todo Application
 This is a simple Todo application built using React.js and a Node.js backend. The application allows users to create new tasks, mark tasks as completed, update tasks, and delete tasks.
 
+## Built With
+1. React
+2. Node.js
+
 ## Installation
 To install the application, clone this repository to your local machine:
 
