@@ -32,5 +32,8 @@ To update a task, click the "Edit" button next to the task. This will open a dia
  ## Delete a task
 To delete a task, click the "Delete" button next to the task. The task will be removed from the list of todos.
 
+ ## List tasks 
+ The task list will be shown when the page loads
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
