@@ -23,6 +23,14 @@ This will start the Node.js server
 This will start the  React.js frontend. You can then access the application by navigating to http://localhost:30001 in your web browser.
 
 ## Features
+
+## Login and Signup
+Before you can use the application, you will need to create an account. To do so, navigate to the Signup page and fill out the form with your details. Once you have created an account, you can log in using your email address and password on the Login page.
+
+## Using the Application
+Once you are logged in, you will be taken to the Todo List page. Here you can view all of your tasks, add new tasks, edit existing tasks, and delete tasks.
+
+To add a new task, simply type the task description into the input field and click the "Add Todo" button. To edit an existing task, click the "Edit" button next to the task and make your changes. To delete a task, click the "Delete" button next to the task.
  ## Create a new task
 To create a new task, simply enter the task details into the input field and click the "Add Todo" button. The new task will be added to the list of todos.
 
@@ -35,5 +43,3 @@ To delete a task, click the "Delete" button next to the task. The task will be r
  ## List tasks 
  The task list will be shown when the page loads
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
