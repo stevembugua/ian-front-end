@@ -5,11 +5,11 @@ This is a simple Todo application built using React.js and a Node.js backend. Th
 ## Installation
 To install the application, clone this repository to your local machine:
 
- `git clone https://github.com/<username>/todo-app.git`
+ `git clone git@github.com:stevembugua/ian-front-end.git`
  
 Then, navigate to the todo-app directory and install the dependencies:
 
-  `cd todo-app`
+  `cd ian-front-end`
   `npm install`
 ## Usage
 To start the application, run the following command:
