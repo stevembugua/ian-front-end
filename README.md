@@ -23,14 +23,14 @@ This will start the Node.js server
 This will start the  React.js frontend. You can then access the application by navigating to http://localhost:30001 in your web browser.
 
 ## Features
-Create a new task
+ ## Create a new task
 To create a new task, simply enter the task details into the input field and click the "Add Todo" button. The new task will be added to the list of todos.
 
-Update a task
+ ## Update a task
 To update a task, click the "Edit" button next to the task. This will open a dialog where you can edit the task details. Once you have made your changes, click the "Save" button to save the changes.
 
-Delete a task
+ ## Delete a task
 To delete a task, click the "Delete" button next to the task. The task will be removed from the list of todos.
 
-Contributing
+## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
